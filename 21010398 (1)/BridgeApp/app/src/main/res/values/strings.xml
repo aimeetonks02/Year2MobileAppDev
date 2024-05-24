@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Bridge Company</string>
+    <string-array name="status">
+        <item>Good</item>
+        <item>Moderate</item>
+        <item>Poor</item>
+    </string-array>
+</resources>
